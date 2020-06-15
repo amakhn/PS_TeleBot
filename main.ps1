@@ -1,8 +1,6 @@
-﻿#
 # 
-# Created By AMakhn voodoo.slim@gmail.com
-# BitBucket   https://bitbucket.org/metallsmell/
-# GitHub      https://github.com/metalicsmell
+# Created By AMakhn 	amakhn@tutanota.com
+# GitHub      		https://github.com/amakhn
 #
 #
 
